@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div>
     <img 
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/slogan-choi"
